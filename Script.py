@@ -7,10 +7,10 @@ class script(object):
 ©️MᴀɪɴᴛᴀɪɴᴇD Bʏ: <a href=https://t.me/DARKWEBLOAD>Dᴀʀᴋ ᴡᴇʙʟᴏᴀᴅ🇮🇳</a>"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
-    ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
+    ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: 𝐾𝑖𝑎𝑟𝑎 𝑎𝑑𝑤𝑎𝑛𝑖 🌼
 ╔══════════════════❍
 ║╭━━━━━━━━━━━━━━━➣ 
-║➠ 𝙼𝚈 𝙽𝙰𝙼𝙴 - <a href="http://t.me/DWL_Auto_Filter_bot"> 𝒔𝒂𝒎𝒂𝒏𝒕𝒉𝒂</a>
+║➠ 𝙼𝚈 𝙽𝙰𝙼𝙴 - <a href="http://t.me/DWL_Autofilter_Bot"> 𝐾𝑖𝑎𝑟𝑎 𝑎𝑑𝑤𝑎𝑛𝑖 🌼</a>
 ║➠ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 - <a href="https://t.me/DARKWEBLOAD">Dᴀʀᴋ ᴡᴇʙʟᴏᴀᴅ🇮🇳</a>
 ║➠ 𝙲𝚁𝙴𝙳𝙸𝚃𝚂 - <a href="https://t.me/DARKWEBLOAD">DᴡL</a> 
 ║➠ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 - ᴘʏʀᴏɢʀᴀᴍ
