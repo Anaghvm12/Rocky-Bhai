@@ -450,7 +450,31 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('ᴀᴜᴛᴏғɪʟᴛᴇʀ', callback_data='autofilter')
             ],[
             InlineKeyboardButton('ᴄᴏɴɴᴇᴄᴛɪᴏɴ', callback_data='coct'),
-            InlineKeyboardButton('ᴇx ᴍᴏᴅs', callback_data='extra')
+            InlineKeyboardButton('ᴇxᴍᴏᴅs', callback_data='extra')
+            ],[  
+            InlineKeyboardButton('ᴀᴅᴍɪɴ ', callback_data='admin'),
+            InlineKeyboardButton('ᴄᴏɴɴᴇᴄᴛ ', callback_data='coct'),
+            InlineKeyboardButton('ғɪʟᴛᴇʀs ', callback_data='auto_manual')
+            ],[
+            InlineKeyboardButton('ɢᴛʀᴀɴs ', callback_data='gtrans'),
+            InlineKeyboardButton('ɪɴғᴏ ', callback_data='info'),
+            InlineKeyboardButton('ᴘᴀsᴛᴇ ', callback_data='paste')
+            ],[
+            InlineKeyboardButton('ᴘᴜʀɢᴇ ', callback_data='purge'),
+            InlineKeyboardButton('ʀᴇsᴛʀɪᴄᴛ ', callback_data='restric'),
+            InlineKeyboardButton('sᴇᴀʀᴄʜ ', callback_data='search')
+            ],[
+            InlineKeyboardButton('ᴛɢʀᴀᴘʜ ', callback_data='tgraph'),
+            InlineKeyboardButton('ᴡʜᴏɪs ', callback_data='whois'),
+            InlineKeyboardButton('ғᴜɴ ', callback_data='fun')
+            ],[
+            InlineKeyboardButton('ᴀʟɪᴠᴇ ', callback_data='alive'),
+            InlineKeyboardButton('sᴏɴɢ ', callback_data='song'),
+            InlineKeyboardButton('ᴊsᴏɴ ', callback_data='json')
+            ],[
+            InlineKeyboardButton('ᴘɪɴ ', callback_data='pin'),
+            InlineKeyboardButton('ᴄᴏʀᴏɴᴀ ', callback_data='corona'),
+            InlineKeyboardButton('sᴛɪᴄᴋᴇʀs ', callback_data='stickerid')
             ],[
             InlineKeyboardButton('ʜᴏᴍᴇ', callback_data='start'),
             InlineKeyboardButton('sᴛᴀᴛᴜs', callback_data='stats')
