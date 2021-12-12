@@ -10,3 +10,4 @@ imdbpy
 aiohttp==3.7.4
 youtube_dl
 youtube_search
+googletrans==3.1.0a0
