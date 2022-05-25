@@ -8,7 +8,7 @@ class script(object):
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: 𝐾𝑖𝑎𝑟𝑎 𝑎𝑑𝑤𝑎𝑛𝑖 🌼                       
 ╔══════════════════❍
 ║╭━━━━━━━━━━━━━━━➣ 
-║➠ 𝙼𝚈 𝙽𝙰𝙼𝙴 - <a href="http://t.me/Auto_FiLtEr_RoBit_Bot"> 𝐾𝑖𝑎𝑟𝑎 𝑎𝑑𝑤𝑎𝑛𝑖 🌼</a>
+║➠ 𝙼𝚈 𝙽𝙰𝙼𝙴 - <a href="http://t.me/Dwl_AutoFilterBot"> 𝖠ᴜᴛᴏ 𝖥ɪʟᴛᴇʀ</a>
 ║➠ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 - <a href="https://t.me/DARKWEBLOAD">Dᴀʀᴋ ᴡᴇʙʟᴏᴀᴅ🇮🇳</a>
 ║➠ 𝙲𝚁𝙴𝙳𝙸𝚃𝚂 - <a href="https://t.me/DARKWEBLOAD">DᴡL</a> 
 ║➠ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 - ᴘʏʀᴏɢʀᴀᴍ
