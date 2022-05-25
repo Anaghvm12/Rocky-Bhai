@@ -6,17 +6,21 @@ class script(object):
 𝖩ᴜꜱᴛ 𝖠ᴅᴅ 𝖬ᴇ 𝖳ᴏ 𝖸ᴏᴜʀ 𝖦ʀᴏᴜᴩ 𝖠ꜱ 𝖠ᴅᴍɪɴ, 𝖳ʜᴀᴛꜱ 𝖠ʟʟ 𝖨 𝖶ɪʟʟ 𝖯ʀᴏᴠɪᴅᴇ 𝖬ᴏᴠɪᴇꜱ 𝖳ʜᴇʀᴇ...🥰</b>"""
     HELP_TXT = """𝖶ᴇʟᴄᴏᴍᴇ 𝖳ᴏ 𝖧ᴇʟᴩ 𝖬ᴏᴅᴜʟᴇ"""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: 𝐾𝑖𝑎𝑟𝑎 𝑎𝑑𝑤𝑎𝑛𝑖 🌼                       
-╔══════════════════❍
-║╭━━━━━━━━━━━━━━━➣ 
-║➠ 𝙼𝚈 𝙽𝙰𝙼𝙴 - <a href="http://t.me/Dwl_AutoFilterBot"> 𝖠ᴜᴛᴏ 𝖥ɪʟᴛᴇʀ</a>
-║➠ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 - <a href="https://t.me/DARKWEBLOAD">Dᴀʀᴋ ᴡᴇʙʟᴏᴀᴅ🇮🇳</a>
-║➠ 𝙲𝚁𝙴𝙳𝙸𝚃𝚂 - <a href="https://t.me/DARKWEBLOAD">DᴡL</a> 
-║➠ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 - ᴘʏʀᴏɢʀᴀᴍ
-║➠ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 - ᴘʏᴛʜᴏɴ 3
-║➠ 𝙲𝙻𝙾𝙽𝙴𝙳 𝙵𝚁𝙾𝙼 - ᴍᴏɴɢᴏ ᴅʙ
-║➠ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 -  ʜᴇʀᴏᴋᴜ
-║➠ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂 - ᴠ1.0.1 [ ʙᴇᴛᴀ ]
-║╰━━━━━━━━━━━━━━━➣ ╚══════════════════❍"""
+<b> 🤖 𝖡ᴏᴛ 𝖭ᴀᴍᴇ : {}.</b>
+
+<b>📝 𝖫ᴀɴɢᴜᴀɢᴇ :  <a href=https://www.python.org/>ᴘʏᴛʜᴏɴ</a></b>
+
+<b>📚 𝖥ʀᴀᴍᴇᴡᴏʀᴋ :  <a href=https://github.com/pyrogram/pyrogram>ᴘʏʀᴏɢʀᴀᴍ</a></b>
+
+<b>📡 𝖧ᴏsᴛᴇᴅ 𝖮ɴ :  <a href=https://dashboard.heroku.com/>ʜᴇʀᴏᴋᴜ</a></b>
+
+<b>👨‍💻 𝖢ʀᴇᴀᴛᴏʀ :  <a href=https://t.me/DARKWEBLOAD>Dᴀʀᴋ ᴡᴇʙʟᴏᴀᴅ🇮🇳</a></b>
+
+<b>💡 𝖲ᴏᴜʀᴄᴇ 𝖢ᴏᴅᴇ : <a href=https://t.me/hagayhwvwhtf>sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ</a></b>
+
+<b>👥 𝖲ᴜᴘᴘᴏʀᴛ 𝖦ʀᴏᴜᴘ :  <a href=https://t.me/https://t.me/Malayalam_New_Movies_Here>ᴜᴘᴅᴀᴛᴇ ɢʀᴏᴜᴘ</a></b>
+
+<b>📢 𝖴ᴘᴅᴀᴛᴇs 𝖢ʜᴀɴɴᴇʟ :  <a href=https://t.me/+wnp1SdfDIHI1ODc1>ᴄʜᴀɴɴᴇʟ</a> </b>"""
     SOURCE_TXT = """<b>NOTE:</b>
 - This Bot not a open source project 😏       
 
