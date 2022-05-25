@@ -18,11 +18,10 @@ class script(object):
 ║➠ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂 - ᴠ1.0.1 [ ʙᴇᴛᴀ ]
 ║╰━━━━━━━━━━━━━━━➣ ╚══════════════════❍"""
     SOURCE_TXT = """<b>NOTE:</b>
-- This Bot not a open source project. 
-- Source - https://t.me/MyGithubSorceCode      
+- This Bot not a open source project 😏       
 
 <b>DEVS:</b>
-- <a href=https://t.me/DARKWEBLOAD>ᎮᏒᎧᎦᏋᏕᎧᏒ</a>"""
+- <a href=https://t.me/DARKWEBLOAD>Dᴀʀᴋ ᴡᴇʙʟᴏᴀᴅ🇮🇳</a>"""
     WHOIS_TXT ="""<b>WHOIS MODULE</b>
 Note:- Give a user details
 
