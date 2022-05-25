@@ -18,7 +18,7 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('𝖴ᴘᴅᴀᴛᴇs 📣', url='https://t.me/joinchat/FYBCIcMfr0AyOTFl')
+                InlineKeyboardButton('𝖴ᴘᴅᴀᴛᴇs 📣', url='https://t.me/+Rc9TK3wIf6xjODE9')
             ],
             [
                 InlineKeyboardButton('𝖧ᴇʟᴘ ⚙️', url=f"https://t.me/{temp.U_NAME}?start=help"),
@@ -37,10 +37,10 @@ async def start(client, message):
         await client.send_message(LOG_CHANNEL, script.LOG_TEXT_P.format(message.from_user.id, message.from_user.mention))
     if len(message.command) != 2:
         buttons = [[
-            InlineKeyboardButton('ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘs', url='http://t.me/Auto_FiLtEr_RoBit_Bot?startgroup=true')             
+            InlineKeyboardButton('➕ 𝖠ᴅᴅ 𝖬ᴇ 𝖳ᴏ 𝖸ᴏᴜʀ 𝖦ʀᴏᴜᴘs ➕', url='http://t.me/Dwl_AutoFilterBot?startgroup=true')             
             ],[
-            InlineKeyboardButton('ʜᴇʟᴘ', callback_data='help'),
-            InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about')
+            InlineKeyboardButton('𝖧ᴇʟᴘ ⚙️', callback_data='help'),
+            InlineKeyboardButton('𝖠ʙᴏᴜᴛ 🎊', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -59,7 +59,7 @@ async def start(client, message):
         btn = [
             [
                 InlineKeyboardButton(
-                    "⭕️ Jᴏɪɴ Uᴘᴅᴀᴛᴇ CʜᴀɴɴᴇL ⭕️", url=invite_link.invite_link
+                    "⚠️ Jᴏɪɴ Uᴘᴅᴀᴛᴇ CʜᴀɴɴᴇL ⚠️", url=invite_link.invite_link
                 )
             ]
         ]
@@ -75,10 +75,10 @@ async def start(client, message):
         return
     if len(message.command) ==2 and message.command[1] in ["subscribe", "error", "okay", "help"]:
         buttons = [[
-            InlineKeyboardButton('ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘs', url='http://t.me/Auto_FiLtEr_RoBit_Bot?startgroup=true')        
+            InlineKeyboardButton('➕ 𝖠ᴅᴅ 𝖬ᴇ 𝖳ᴏ 𝖸ᴏᴜʀ 𝖦ʀᴏᴜᴘs ➕', url='http://t.me/Dwl_AutoFilterBot?startgroup=true')        
             ],[
-            InlineKeyboardButton('ʜᴇʟᴘ', callback_data='help'),
-            InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about')
+            InlineKeyboardButton('𝖧ᴇʟᴘ ⚙️', callback_data='help'),
+            InlineKeyboardButton('𝖠ʙᴏᴜᴛ 🎊', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
