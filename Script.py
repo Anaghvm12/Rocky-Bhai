@@ -6,17 +6,21 @@ class script(object):
 𝖩ᴜꜱᴛ 𝖠ᴅᴅ 𝖬ᴇ 𝖳ᴏ 𝖸ᴏᴜʀ 𝖦ʀᴏᴜᴩ 𝖠ꜱ 𝖠ᴅᴍɪɴ, 𝖳ʜᴀᴛꜱ 𝖠ʟʟ 𝖨 𝖶ɪʟʟ 𝖯ʀᴏᴠɪᴅᴇ 𝖬ᴏᴠɪᴇꜱ 𝖳ʜᴇʀᴇ...🥰</b>"""
     HELP_TXT = """<b>𝖧ᴇʏ {} 𝖶ᴇʟᴄᴏᴍᴇ 𝖳ᴏ 𝖧ᴇʟᴩ 𝖬ᴏᴅᴜʟᴇ ☺️</b>"""
     ABOUT_TXT = """                      
-╔══════════════════❍
-║╭━━━━━━━━━━━━━━━➣ 
-║<b>🤖 𝖬ʏ 𝖭ᴀᴍᴇ -  {}.</b>
-║<b>🧑‍💻 𝖢ʀᴇᴀᴛᴏʀ - <a href="https://t.me/DARKWEBLOAD">Dᴀʀᴋ ᴡᴇʙʟᴏᴀᴅ🇮🇳</a></b>
-║<b>🗣️ 𝖫ᴀɴɢᴜᴀɢᴇ - <a href="https://www.python.org/"> 𝙿𝚈𝚃𝙷𝙾𝙽</a></b>
-║<b>🧬 𝖢ʟᴏɴᴇᴅ 𝖥ʀᴏᴍ - 𝙶𝙸𝚃𝙷𝚄𝙱</b>
-║<b>🧩 𝖥ʀᴀᴍᴇᴡᴏʀᴋ - <a href="https://github.com/pyrogram/pyrogram"> 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼</a></b>
-║<b>📡 𝖡ᴏᴛ 𝖲ᴇʀᴠᴇʀ : <a href="http://heroku.com/"> 𝙷𝙴𝚁𝙾𝙺𝚄</a></b>
-║<b>📦 𝖣ᴀᴛᴀ 𝖡ᴀꜱᴇ -  <a href="https://www.mongodb.com/"> 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱</a></b>
-║<b>🚥 𝖡ᴜɪʟᴅ 𝖲ᴛᴀᴛᴜꜱ - ᴠ1.0.1 [ 𝙱𝙴𝚃𝙰 ]</b>
-║╰━━━━━━━━━━━━━━━➣ ╚══════════════════❍"""
+<b> 🤖 𝖡ᴏᴛ 𝖭ᴀᴍᴇ : {}.</b>
+
+<b>📝 𝖫ᴀɴɢᴜᴀɢᴇ :  <a href=https://www.python.org/>ᴘʏᴛʜᴏɴ</a></b>
+
+<b>📚 𝖥ʀᴀᴍᴇᴡᴏʀᴋ :  <a href=https://github.com/pyrogram/pyrogram>ᴘʏʀᴏɢʀᴀᴍ</a></b>
+
+<b>📡 𝖧ᴏsᴛᴇᴅ 𝖮ɴ :  <a href=https://dashboard.heroku.com/>ʜᴇʀᴏᴋᴜ</a></b>
+
+<b>👨‍💻 𝖢ʀᴇᴀᴛᴏʀ :  <a href=https://t.me/DARKWEBLOAD>Dᴀʀᴋ ᴡᴇʙʟᴏᴀᴅ🇮🇳</a></b>
+
+<b>💡 𝖲ᴏᴜʀᴄᴇ 𝖢ᴏᴅᴇ : <a href=https://t.me/hagayhwvwhtf>sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ</a></b>
+
+<b>👥 𝖲ᴜᴘᴘᴏʀᴛ 𝖦ʀᴏᴜᴘ :  <a href=https://t.me/https://t.me/Malayalam_New_Movies_Here>ᴜᴘᴅᴀᴛᴇ ɢʀᴏᴜᴘ</a></b>
+
+<b>📢 𝖴ᴘᴅᴀᴛᴇs 𝖢ʜᴀɴɴᴇʟ :  <a href=https://t.me/+wnp1SdfDIHI1ODc1>ᴄʜᴀɴɴᴇʟ</a></b>"""
     SOURCE_TXT = """<b>NOTE:</b>
 - 𝖳ʜɪs 𝖡ᴏᴛ 𝖭ᴏᴛ 𝖠 𝖮ᴘᴇɴ 𝖲ᴏᴜʀᴄᴇ 𝖯ʀᴏᴊᴇᴄᴛ 🤧</a>"""
     WHOIS_TXT ="""<b>WHOIS MODULE</b>
