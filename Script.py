@@ -18,10 +18,7 @@ class script(object):
 ║🚥 𝖡ᴜɪʟᴅ 𝖲ᴛᴀᴛᴜꜱ - ᴠ1.0.1 [ 𝙱𝙴𝚃𝙰 ]
 ║╰━━━━━━━━━━━━━━━➣ ╚══════════════════❍"""
     SOURCE_TXT = """<b>NOTE:</b>
-- This Bot not a open source project 😏       
-
-<b>DEVS:</b>
-- <a href=https://t.me/DARKWEBLOAD>Dᴀʀᴋ ᴡᴇʙʟᴏᴀᴅ🇮🇳</a>"""
+- 𝖳ʜɪs 𝖡ᴏᴛ 𝖭ᴏᴛ 𝖠 𝖮ᴘᴇɴ 𝖲ᴏᴜʀᴄᴇ 𝖯ʀᴏᴊᴇᴄᴛ 🤧</a>"""
     WHOIS_TXT ="""<b>WHOIS MODULE</b>
 Note:- Give a user details
 
