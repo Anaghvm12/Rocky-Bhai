@@ -14,7 +14,7 @@ class script(object):
 ║🧬 𝖢ʟᴏɴᴇᴅ 𝖥ʀᴏᴍ - <a href="https://github.com/">𝙶𝙸𝚃𝙷𝚄𝙱</a>
 ║🧩 𝖥ʀᴀᴍᴇᴡᴏʀᴋ - <a href="https://github.com/pyrogram/pyrogram"> 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼</a>
 ║📡 𝖡ᴏᴛ 𝖲ᴇʀᴠᴇʀ : <a href="http://heroku.com/"> 𝙷𝙴𝚁𝙾𝙺𝚄</a>
-📦 𝖣ᴀᴛᴀ 𝖡ᴀꜱᴇ -  <a href="https://www.mongodb.com/"> 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱</a>
+║📦 𝖣ᴀᴛᴀ 𝖡ᴀꜱᴇ -  <a href="https://www.mongodb.com/"> 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱</a>
 ║🚥 𝖡ᴜɪʟᴅ 𝖲ᴛᴀᴛᴜꜱ - ᴠ1.0.1 [ 𝙱𝙴𝚃𝙰 ]
 ║╰━━━━━━━━━━━━━━━➣ ╚══════════════════❍"""
     SOURCE_TXT = """<b>NOTE:</b>
@@ -249,9 +249,9 @@ This module only works for my admins
 
     STATUS_TXT = """<b>📂 𝖳ᴏᴛᴀʟ 𝖥ɪʟᴇs:</b> <code>{}</code>
 <b>👤 𝖳ᴏᴛᴀʟ 𝖴sᴇʀs:</b> <code>{}</code>
-<b>📇 𝖳ᴏᴛᴀʟ 𝖢ʜᴀᴛs:</b> <code>{}</code>
+<b>🎎 𝖳ᴏᴛᴀʟ 𝖢ʜᴀᴛs:</b> <code>{}</code>
 <b>🗃️ 𝖴sᴇᴅ 𝖲ᴛᴏʀᴀɢᴇ:</b> <code>{}</code> MiB
-<b>📭 𝖥ʀᴇᴇ 𝖲ᴛᴏʀᴀɢᴇ:</b> <code>{}</code> MiB""" 
+<b>🆓 𝖥ʀᴇᴇ 𝖲ᴛᴏʀᴀɢᴇ:</b> <code>{}</code> MiB""" 
     LOG_TEXT_G = """#NewGroup
 Group = {}(<code>{}</code>)
 Total Members = <code>{}</code>
