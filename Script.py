@@ -11,7 +11,7 @@ class script(object):
 ║<b>🤖 𝖬ʏ 𝖭ᴀᴍᴇ -  {}.</b>
 ║<b>🧑‍💻 𝖢ʀᴇᴀᴛᴏʀ - <a href="https://t.me/DARKWEBLOAD">Dᴀʀᴋ ᴡᴇʙʟᴏᴀᴅ🇮🇳</a></b>
 ║<b>🗣️ 𝖫ᴀɴɢᴜᴀɢᴇ - <a href="https://www.python.org/"> 𝙿𝚈𝚃𝙷𝙾𝙽</a></b>
-║<b>🧬 𝖢ʟᴏɴᴇᴅ 𝖥ʀᴏᴍ - 𝙶𝙸𝚃𝙷𝚄𝙱
+║<b>🧬 𝖢ʟᴏɴᴇᴅ 𝖥ʀᴏᴍ - 𝙶𝙸𝚃𝙷𝚄𝙱</b>
 ║<b>🧩 𝖥ʀᴀᴍᴇᴡᴏʀᴋ - <a href="https://github.com/pyrogram/pyrogram"> 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼</a></b>
 ║<b>📡 𝖡ᴏᴛ 𝖲ᴇʀᴠᴇʀ : <a href="http://heroku.com/"> 𝙷𝙴𝚁𝙾𝙺𝚄</a></b>
 ║<b>📦 𝖣ᴀᴛᴀ 𝖡ᴀꜱᴇ -  <a href="https://www.mongodb.com/"> 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱</a></b>
