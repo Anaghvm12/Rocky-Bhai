@@ -438,10 +438,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await query.answer()
     elif query.data == "start":
         buttons = [[
-            InlineKeyboardButton('➕ 𝖠ᴅᴅ 𝖬ᴇ 𝖳ᴏ 𝖸ᴏᴜʀ 𝖦ʀᴏᴜᴘs ➕', url='http://t.me/Dwl_AutoFilterBot?startgroup=true')             
+            InlineKeyboardButton('➕ 𝖠ᴅᴅ 𝖬ᴇ 𝖳ᴏ 𝖸ᴏᴜʀ 𝖦ʀᴏᴜᴘs ➕', url='http://t.me/MTG_Filter_bot?startgroup=true')             
             ],[
-            InlineKeyboardButton('𝖧ᴇʟᴘ ⚙️', callback_data='help'),
-            InlineKeyboardButton('𝖠ʙᴏᴜᴛ 🎊', callback_data='about')
+            InlineKeyboardButton("𝖴ᴘᴀᴅᴀᴛᴇs 📥", url='https://t.me/+wnp1SdfDIHI1ODc1'),
+            InlineKeyboardButton("𝖦ʀᴏᴜᴏ ♻️", url='https://t.me/https://t.me/Malayalam_New_Movies_Here')
+            ],[
+            InlineKeyboardButton('𝖧ᴇʟᴘ 📚', callback_data='help'),
+            InlineKeyboardButton('𝖠ʙᴏᴜᴛ 😎', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
@@ -951,7 +954,7 @@ async def advantage_spell_chok(msg):
             ]
         ]
     )
-        k = await msg.reply(f"Hey, {msg.from_user.mention}!.. Your word <b>{search}</b> is No Movie/Series Related to the Given Word Was Found 🥺\n<s>Please Go to Google and Confirm the Correct Spelling 🥺🙏</s>", reply_markup=hmm)
+        k = await msg.reply(f"<b>Hey, {msg.from_user.mention}!.. Your word <b>{search}</b> is No Movie/Series Related to the Given Word Was Found 🥺</b>\n<b>Please Go to Google and Confirm the Correct Spelling 🥺🙏</b>", reply_markup=hmm)
         await asyncio.sleep(60)
         await k.delete()
         return
