@@ -954,7 +954,7 @@ async def advantage_spell_chok(msg):
             ]
         ]
     )
-        k = await msg.reply(f"<b>Hey, {msg.from_user.mention}!.. Your word <b>{search}</b> is No Movie/Series Related to the Given Word Was Found 🥺</b>\n<b>Please Go to Google and Confirm the Correct Spelling 🥺🙏</b>", reply_markup=hmm)
+        k = await msg.reply(f"<b>𝖧𝖾𝗒, {msg.from_user.mention}!..  𝖸𝗈𝗎𝗋 𝖶𝗈𝗋𝖽 𝖨𝗌 𝖭𝗈 𝖬𝗈𝗏𝗂𝖾/𝖲𝖾𝗋𝗂𝖾𝗌 𝖱𝖾𝗅𝖺𝗍𝖾𝖽 𝖳𝗈 𝖳𝗁𝖾 𝖦𝗂𝗏𝖾𝗇 𝖶𝗈𝗋𝗅𝖽 𝖶𝖺𝗌 𝖥𝗈𝗎𝗇𝖽 🥺 𝖯𝗅𝖾𝖺𝗌𝖾 𝖦𝗈 𝖳𝗈 𝖦𝗈𝗈𝗀𝗅𝖾 𝖠𝗇𝖽 𝖢𝗈𝗇𝖿𝗂𝗋𝗆 𝖳𝗁𝖾 𝖢𝗈𝗋𝗋𝖾𝖼𝗍 𝖲𝗉𝖾𝗅𝗅𝗂𝗇𝗀 🥺🙏</b>", reply_markup=hmm)
         await asyncio.sleep(60)
         await k.delete()
         return
