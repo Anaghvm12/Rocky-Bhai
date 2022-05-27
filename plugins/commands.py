@@ -18,7 +18,7 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('𝖴ᴘᴅᴀᴛᴇs 📣', url='https://t.me/+Rc9TK3wIf6xjODE9')
+                InlineKeyboardButton('𝖴ᴘᴅᴀᴛᴇs 📣', url='https://t.me/+wnp1SdfDIHI1ODc1')
             ],
             [
                 InlineKeyboardButton('𝖧ᴇʟᴘ ⚙️', url=f"https://t.me/{temp.U_NAME}?start=help"),
@@ -37,7 +37,7 @@ async def start(client, message):
         await client.send_message(LOG_CHANNEL, script.LOG_TEXT_P.format(message.from_user.id, message.from_user.mention))
     if len(message.command) != 2:
         buttons = [[
-            InlineKeyboardButton('➕ 𝖠ᴅᴅ 𝖬ᴇ 𝖳ᴏ 𝖸ᴏᴜʀ 𝖦ʀᴏᴜᴘs ➕', url='http://t.me/MTG_Filter_bot?startgroup=true')             
+            InlineKeyboardButton('➕ 𝖠ᴅᴅ 𝖬ᴇ 𝖳ᴏ 𝖸ᴏᴜʀ 𝖦ʀᴏᴜᴘs ➕', url='http://t.me/MTG_Movie_Bot?startgroup=true')             
             ],[
             InlineKeyboardButton("𝖴ᴘᴅᴀᴛᴇs 📥", url='https://t.me/+wnp1SdfDIHI1ODc1'),
             InlineKeyboardButton("𝖦ʀᴏᴜᴘ ♻️", url='https://t.me/https://t.me/Malayalam_New_Movies_Here')
@@ -78,7 +78,7 @@ async def start(client, message):
         return
     if len(message.command) ==2 and message.command[1] in ["subscribe", "error", "okay", "help"]:
         buttons = [[
-            InlineKeyboardButton('➕ 𝖠ᴅᴅ 𝖬ᴇ 𝖳ᴏ 𝖸ᴏᴜʀ 𝖦ʀᴏᴜᴘs ➕', url='http://t.me/MTG_Filter_bot?startgroup=true')             
+            InlineKeyboardButton('➕ 𝖠ᴅᴅ 𝖬ᴇ 𝖳ᴏ 𝖸ᴏᴜʀ 𝖦ʀᴏᴜᴘs ➕', url='http://t.me/MTG_Movie_Bot?startgroup=true')             
             ],[
             InlineKeyboardButton("𝖴ᴘᴅᴀᴛᴇs 📥", url='https://t.me/+wnp1SdfDIHI1ODc1'),
             InlineKeyboardButton("𝖦ʀᴏᴜᴘ ♻️", url='https://t.me/https://t.me/Malayalam_New_Movies_Here')
