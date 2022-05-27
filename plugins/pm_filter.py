@@ -438,7 +438,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await query.answer()
     elif query.data == "start":
         buttons = [[
-            InlineKeyboardButton('➕ 𝖠ᴅᴅ 𝖬ᴇ 𝖳ᴏ 𝖸ᴏᴜʀ 𝖦ʀᴏᴜᴘs ➕', url='http://t.me/MTG_Filter_bot?startgroup=true')             
+            InlineKeyboardButton('➕ 𝖠ᴅᴅ 𝖬ᴇ 𝖳ᴏ 𝖸ᴏᴜʀ 𝖦ʀᴏᴜᴘs ➕', url='http://t.me/MTG_Movie_Bot?startgroup=true')             
             ],[
             InlineKeyboardButton("𝖴ᴘᴅᴀᴛᴇs 📥", url='https://t.me/+wnp1SdfDIHI1ODc1'),
             InlineKeyboardButton("𝖦ʀᴏᴜᴘ ♻️", url='https://t.me/https://t.me/Malayalam_New_Movies_Here')
