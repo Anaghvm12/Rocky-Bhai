@@ -18,7 +18,7 @@ class script(object):
 
 <b>💡 𝖲ᴏᴜʀᴄᴇ 𝖢ᴏᴅᴇ : <a href=https://t.me/hagayhwvwhtf>sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ</a></b>
 
-<b>👥 𝖲ᴜᴘᴘᴏʀᴛ 𝖦ʀᴏᴜᴘ :  <a href=https://t.me/https://t.me/Malayalam_New_Movies_Here>ᴜᴘᴅᴀᴛᴇ ɢʀᴏᴜᴘ</a></b>
+<b>👥 𝖲ᴜᴘᴘᴏʀᴛ 𝖦ʀᴏᴜᴘ :  <a href=https://t.me/Malayalam_New_Movies_Here>ᴜᴘᴅᴀᴛᴇ ɢʀᴏᴜᴘ</a></b>
 
 <b>📢 𝖴ᴘᴅᴀᴛᴇs 𝖢ʜᴀɴɴᴇʟ :  <a href=https://t.me/+wnp1SdfDIHI1ODc1>ᴄʜᴀɴɴᴇʟ</a></b>"""
     SOURCE_TXT = """<b>NOTE:</b>
