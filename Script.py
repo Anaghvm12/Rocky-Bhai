@@ -250,7 +250,7 @@ This module only works for my admins
 
     STATUS_TXT = """<b>📂 𝖳ᴏᴛᴀʟ 𝖥ɪʟᴇs:</b> <code>{}</code>
 <b>👤 𝖳ᴏᴛᴀʟ 𝖴sᴇʀs:</b> <code>{}</code>
-<b>🎎 𝖳ᴏᴛᴀʟ 𝖢ʜᴀᴛs:</b> <code>{}</code>
+<b>♻️ 𝖳ᴏᴛᴀʟ 𝖢ʜᴀᴛs:</b> <code>{}</code>
 <b>🗃️ 𝖴sᴇᴅ 𝖲ᴛᴏʀᴀɢᴇ:</b> <code>{}</code> MiB
 <b>🆓 𝖥ʀᴇᴇ 𝖲ᴛᴏʀᴀɢᴇ:</b> <code>{}</code> MiB""" 
     LOG_TEXT_G = """#NewGroup
