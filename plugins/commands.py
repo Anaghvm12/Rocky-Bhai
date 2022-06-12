@@ -39,9 +39,6 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('➕ 𝖠ᴅᴅ 𝖬ᴇ 𝖳ᴏ 𝖸ᴏᴜʀ 𝖦ʀᴏᴜᴘs ➕', url='http://t.me/MTG_Movie_Bot?startgroup=true')             
             ],[
-            InlineKeyboardButton("𝖴ᴘᴅᴀᴛᴇs 📥", url='https://t.me/+wnp1SdfDIHI1ODc1'),
-            InlineKeyboardButton("𝖦ʀᴏᴜᴘ ♻️", url='https://t.me/Malayalam_New_Movies_Here')
-            ],[
             InlineKeyboardButton('𝖧ᴇʟᴘ 📚', callback_data='help'),
             InlineKeyboardButton('𝖠ʙᴏᴜᴛ 😎', callback_data='about')
         ]]
@@ -79,9 +76,6 @@ async def start(client, message):
     if len(message.command) ==2 and message.command[1] in ["subscribe", "error", "okay", "help"]:
         buttons = [[
             InlineKeyboardButton('➕ 𝖠ᴅᴅ 𝖬ᴇ 𝖳ᴏ 𝖸ᴏᴜʀ 𝖦ʀᴏᴜᴘs ➕', url='http://t.me/MTG_Movie_Bot?startgroup=true')             
-            ],[
-            InlineKeyboardButton("𝖴ᴘᴅᴀᴛᴇs 📥", url='https://t.me/+wnp1SdfDIHI1ODc1'),
-            InlineKeyboardButton("𝖦ʀᴏᴜᴘ ♻️", url='https://t.me/Malayalam_New_Movies_Here')
             ],[
             InlineKeyboardButton('𝖧ᴇʟᴘ 📚', callback_data='help'),
             InlineKeyboardButton('𝖠ʙᴏᴜᴛ 😎', callback_data='about')
