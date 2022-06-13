@@ -476,6 +476,9 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('𝖢ᴏʀᴏɴᴀ ', callback_data='corona'),
             InlineKeyboardButton('𝖲ᴛɪᴄᴋᴇʀ ', callback_data='stickerid')
             ],[
+            InlineKeyboardButton('𝖲ᴛᴀᴛᴜs', callback_data='stats'),
+            InlineKeyboardButton('𝖲ᴏᴜʀᴄᴇ', callback_data='source')
+            ],[
             InlineKeyboardButton('⬅️ 𝖡ᴀᴄᴋ', callback_data='start')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -487,9 +490,6 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "about":
         buttons= [[
-            InlineKeyboardButton('𝖲ᴛᴀᴛᴜs 📈', callback_data='stats'),
-            InlineKeyboardButton('𝖲ᴏᴜʀᴄᴇ 📊', callback_data='source')
-            ],[
             InlineKeyboardButton('⬅️ 𝖡ᴀᴄᴋ', callback_data='start'),
             InlineKeyboardButton('𝖢ʟᴏsᴇ ⛔', callback_data='close_data')
         ]]
