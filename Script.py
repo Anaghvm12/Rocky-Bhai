@@ -22,7 +22,7 @@ class script(object):
 
 <b>📢 𝖴ᴘᴅᴀᴛᴇs 𝖢ʜᴀɴɴᴇʟ :  <a href=https://t.me/+wnp1SdfDIHI1ODc1>ᴄʜᴀɴɴᴇʟ</a></b>"""
     SOURCE_TXT = """<b>NOTE:</b>
-- 𝖳ʜɪs 𝖡ᴏᴛ 𝖭ᴏᴛ 𝖠 𝖮ᴘᴇɴ 𝖲ᴏᴜʀᴄᴇ 𝖯ʀᴏᴊᴇᴄᴛ 🤧</a>"""
+<b>- 𝖳ʜɪs 𝖡ᴏᴛ 𝖭ᴏᴛ 𝖠 𝖮ᴘᴇɴ 𝖲ᴏᴜʀᴄᴇ 𝖯ʀᴏᴊᴇᴄᴛ 🤧</b></a>"""
     WHOIS_TXT ="""<b>WHOIS MODULE</b>
 Note:- Give a user details
 
