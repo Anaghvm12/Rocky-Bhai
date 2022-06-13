@@ -6,21 +6,13 @@ class script(object):
 𝖦ʀᴏᴜᴘs, 𝖩ᴜsᴛ 𝖠ᴅᴅ 𝖬ᴇ 𝖳ᴏ 𝖸ᴏᴜʀ 𝖦ʀᴏᴜᴘ 𝖠s 𝖠ᴅᴍɪɴ 𝖠ɴᴅ 𝖤ɴᴊᴏʏ.....🥰</b>"""
     HELP_TXT = """<b>𝖧ᴇʏ {} 𝖶ᴇʟᴄᴏᴍᴇ 𝖳ᴏ 𝖧ᴇʟᴩ 𝖬ᴏᴅᴜʟᴇ ☺️</b>"""
     ABOUT_TXT = """                      
-<b>🤖 𝖡ᴏᴛ 𝖭ᴀᴍᴇ : {}.</b>
-
-<b>📝 𝖫ᴀɴɢᴜᴀɢᴇ :  <a href=https://www.python.org/>ᴘʏᴛʜᴏɴ</a></b>
-
-<b>📚 𝖥ʀᴀᴍᴇᴡᴏʀᴋ :  <a href=https://github.com/pyrogram/pyrogram>ᴘʏʀᴏɢʀᴀᴍ</a></b>
-
-<b>📡 𝖧ᴏsᴛᴇᴅ 𝖮ɴ :  <a href=https://dashboard.heroku.com/>ʜᴇʀᴏᴋᴜ</a></b>
-
-<b>👨‍💻 𝖢ʀᴇᴀᴛᴏʀ :  <a href=https://t.me/MagnusTG>ᴍᴀɢɴᴜs ᴛɢ🇮🇳</a></b>
-
-<b>💡 𝖲ᴏᴜʀᴄᴇ 𝖢ᴏᴅᴇ : <a href=https://t.me/hagayhwvwhtf>sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ</a></b>
-
-<b>👥 𝖲ᴜᴘᴘᴏʀᴛ 𝖦ʀᴏᴜᴘ :  <a href=https://t.me/Malayalam_New_Movies_Here>ᴜᴘᴅᴀᴛᴇ ɢʀᴏᴜᴘ</a></b>
-
-<b>📢 𝖴ᴘᴅᴀᴛᴇs 𝖢ʜᴀɴɴᴇʟ :  <a href=https://t.me/+wnp1SdfDIHI1ODc1>ᴄʜᴀɴɴᴇʟ</a></b>"""
+<b>○ 𝖬𝗒 𝖭𝖺𝗆𝖾 : {}</b>
+<b>○ 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 : <a href=https://t.me/MagnusTG>𝖬𝖺𝗀𝗇𝗎𝗌 𝖳𝖦 🇮🇳</a></b>
+<b>○ 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾 : 𝖯𝗒𝗍𝗁𝗈𝗇 𝟥</b>
+<b>○ 𝖫𝗂𝖻𝗋𝖺𝗋𝗒 : 𝖯𝗒𝗋𝗈𝗀𝗋𝖺𝗆</b>
+<b>○ 𝖲𝖾𝗋𝗏𝖾𝗋 : 𝖧𝖾𝗋𝗈𝗄𝗎</b>
+<b>○ 𝖣𝖺𝗍𝖺𝖻𝖺𝗌𝖾 : 𝖬𝗈𝗇𝗀𝗈𝖣𝖡 
+<b>○ 𝖡𝗎𝗂𝗅𝖽 𝖲𝗍𝖺𝗍𝗎𝗌 : 𝖵6.5 [𝖡𝖾𝗍𝖺]</b>"""
     SOURCE_TXT = """<b>NOTE:</b>
 <b>- 𝖳ʜɪs 𝖡ᴏᴛ 𝖭ᴏᴛ 𝖠 𝖮ᴘᴇɴ 𝖲ᴏᴜʀᴄᴇ 𝖯ʀᴏᴊᴇᴄᴛ 🤧</b></a>"""
     WHOIS_TXT ="""<b>WHOIS MODULE</b>
