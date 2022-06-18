@@ -438,10 +438,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await query.answer()
     elif query.data == "start":
         buttons = [[
-            InlineKeyboardButton('➕ 𝖠ᴅᴅ 𝖬ᴇ 𝖳ᴏ 𝖸ᴏᴜʀ 𝖦ʀᴏᴜᴘs ➕', url='http://t.me/MTG_Movie_Bot?startgroup=true')             
+            InlineKeyboardButton('➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕', url='http://t.me/MTG_Movie_Bot?startgroup=true')             
             ],[
-            InlineKeyboardButton('𝖧ᴇʟᴘ 📚', callback_data='help'),
-            InlineKeyboardButton('𝖠ʙᴏᴜᴛ 😎', callback_data='about')
+            InlineKeyboardButton('ʜᴇʟᴘ 📚', callback_data='help'),
+            InlineKeyboardButton('ᴀʙᴏᴜᴛ 😎', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
@@ -452,35 +452,33 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "help":
         buttons = [[
-            InlineKeyboardButton('𝖠ᴅᴍɪɴ ', callback_data='admin'),
-            InlineKeyboardButton('𝖢ᴏɴɴᴇᴄᴛ ', callback_data='coct'),
-            InlineKeyboardButton('𝖥ɪʟᴛᴇʀ ', callback_data='auto_manual')
+            InlineKeyboardButton('ᴀᴅᴍɪɴ', callback_data='admin'),
+            InlineKeyboardButton('ᴄᴏɴɴᴇᴄᴛ', callback_data='coct'),
+            InlineKeyboardButton('ғɪʟᴛᴇʀ', callback_data='auto_manual')
             ],[
-            InlineKeyboardButton('𝖦ᴛʀᴀɴs ', callback_data='gtrans'),
-            InlineKeyboardButton('𝖨ɴғᴏ ', callback_data='info'),
-            InlineKeyboardButton('𝖯ᴀsᴛᴇ ', callback_data='paste')
+            InlineKeyboardButton('ɢᴛʀᴀɴs', callback_data='gtrans'),
+            InlineKeyboardButton('ɪɴғᴏ', callback_data='info'),
+            InlineKeyboardButton('ᴘᴀsᴛᴇ', callback_data='paste')
             ],[
-            InlineKeyboardButton('𝖯ᴜʀɢᴇ ', callback_data='purge'),
-            InlineKeyboardButton('𝖱ᴇsᴛʀɪᴄᴛ ', callback_data='restric'),
-            InlineKeyboardButton('𝖲ᴇᴀʀᴄʜ ', callback_data='search')
+            InlineKeyboardButton('ᴘᴜʀɢᴇ', callback_data='purge'),
+            InlineKeyboardButton('ʀᴇsᴛʀɪᴄᴛ', callback_data='restric'),
+            InlineKeyboardButton('sᴇᴀʀᴄʜ', callback_data='search')
             ],[
-            InlineKeyboardButton('𝖳ɢʀᴀᴘʜ ', callback_data='tgraph'),
-            InlineKeyboardButton('𝖶ʜᴏɪs ', callback_data='whois'),
-            InlineKeyboardButton('𝖥ᴜɴ ', callback_data='fun')
+            InlineKeyboardButton('ᴛɢʀᴀᴘʜ', callback_data='tgraph'),
+            InlineKeyboardButton('ᴡʜᴏɪs', callback_data='whois'),
+            InlineKeyboardButton('ғᴜɴ', callback_data='fun')
             ],[
-            InlineKeyboardButton('𝖠ʟɪᴠᴇ ', callback_data='alive'),
-            InlineKeyboardButton('𝖲ᴏɴɢ ', callback_data='song'),
-            InlineKeyboardButton('𝖩sᴏɴ ', callback_data='json')
+            InlineKeyboardButton('ᴀʟɪᴠᴇ', callback_data='alive'),
+            InlineKeyboardButton('sᴏɴɢ', callback_data='song'),
+            InlineKeyboardButton('ᴊsᴏɴ', callback_data='json')
             ],[
-            InlineKeyboardButton('𝖯ɪɴ ', callback_data='pin'),
-            InlineKeyboardButton('𝖢ᴏʀᴏɴᴀ ', callback_data='corona'),
-            InlineKeyboardButton('𝖲ᴛɪᴄᴋᴇʀ ', callback_data='stickerid')
-            ],[
-            InlineKeyboardButton('𝖦ɪᴛʜᴜʙ', callback_data='github'),
-            InlineKeyboardButton('𝖲ᴛᴀᴛᴜs', callback_data='stats'),
-            InlineKeyboardButton('𝖲ᴏᴜʀᴄᴇ', callback_data='source')
+            InlineKeyboardButton('ᴘɪɴ', callback_data='pin'),
+            InlineKeyboardButton('ᴄᴏʀᴏɴᴀ', callback_data='corona'),
+            InlineKeyboardButton('sᴛɪᴄᴋᴇʀ', callback_data='stickerid')
             ],[
             InlineKeyboardButton('⬅️ 𝖡ᴀᴄᴋ', callback_data='start')
+            InlineKeyboardButton('sᴛᴀᴛᴜs 🔰', callback_data='stats'),
+            InlineKeyboardButton('ʜᴏᴍᴇ 🏠', callback_data='home'),
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
