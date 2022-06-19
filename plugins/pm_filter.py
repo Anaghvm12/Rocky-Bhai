@@ -476,7 +476,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('ᴄᴏʀᴏɴᴀ', callback_data='corona'),
             InlineKeyboardButton('sᴛɪᴄᴋᴇʀ', callback_data='stickerid')
             ],[
-            InlineKeyboardButton('ᴛᴛꜱ', callback_data='ttss')           
+            InlineKeyboardButton('ᴛᴛꜱ', callback_data='ttss'),          
+            InlineKeyboardButton('yᴛ-ᴛʜᴜᴍʙ', callback_data='ytthumb'),
+            InlineKeyboardButton('ᴀᴜᴅɪᴏ-ʙᴏᴏᴋ', callback_data='abook')
+            ],[
+            InlineKeyboardButton('ᴜʀʟ-sʜᴏʀᴛ', callback_data='urlshort'),
+            InlineKeyboardButton('ʀᴇᴩᴏʀᴛ', callback_data='report'),
+            InlineKeyboardButton("ᴠɪᴅᴇᴏ", callback_data='video')
             ],[
             InlineKeyboardButton('⬅️ ʙᴀᴄᴋ', callback_data='start'),
             InlineKeyboardButton('sᴛᴀᴛᴜs 🔰', callback_data='stats'),
@@ -559,6 +565,39 @@ async def cb_handler(client: Client, query: CallbackQuery):
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
             text=script.TTS_TXT,
+            reply_markup=reply_markup,
+            parse_mode='html'
+        )
+    elif query.data == "ytthumb":
+        buttons = [[
+            InlineKeyboardButton('⬅️ ʙᴀᴄᴋ', callback_data='help')
+        ]]
+        reply_markup = InlineKeyboardMarkup(buttons)
+        await query.message.edit_text(
+            text=script.YTTHUMB_TXT,
+            disable_web_page_preview=True,
+            reply_markup=reply_markup,
+            parse_mode='html'
+        )
+    elif query.data == "report":
+        buttons = [[
+            InlineKeyboardButton('⬅️ ʙᴀᴄᴋ', callback_data='help')
+        ]]
+        reply_markup = InlineKeyboardMarkup(buttons)
+        await query.message.edit_text(
+            text=script.REPORT_TXT,
+            disable_web_page_preview=True,
+            reply_markup=reply_markup,
+            parse_mode='html'
+        )
+    elif query.data == "abook":
+        buttons = [[
+            InlineKeyboardButton('⬅️ ʙᴀᴄᴋ', callback_data='help')
+        ]]
+        reply_markup = InlineKeyboardMarkup(buttons)
+        await query.message.edit_text(
+            text=script.ABOOK_TXT,
+            disable_web_page_preview=True,
             reply_markup=reply_markup,
             parse_mode='html'
         )
