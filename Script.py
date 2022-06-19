@@ -79,6 +79,13 @@ Everyone can use this command , if spaming happens bot will automatically ban yo
 • 𝖨𝗆𝖽𝖻 𝖲𝗁𝗈𝗎𝗅𝖽 𝖧𝖺𝗏𝖾 𝖠𝖽𝗆𝗂𝗇 𝖯𝗋𝖾𝗏𝗂𝗅𝖺𝗀𝖾.
 • These commands works on both pm and group.
 • IMDb can translate texts to 200+ languages."""
+    URLSHORT_TXT = """➤ 𝖧𝖾𝗅𝗉: 𝖴𝗋𝗅 𝗌𝗁𝗈𝗋𝗍𝗇𝖾𝗋
+
+𝖳𝗁𝗂𝗌 𝖢𝗈𝗆𝗆𝖺𝗇𝖽 𝖧𝖾𝗅𝗉 𝖸𝗈𝗎 𝖳𝗈 𝖲𝗁𝗈𝗋𝗍 𝖠 𝖴𝗋𝗅 
+➤ 𝖢𝗈𝗆𝗆𝖺𝗇𝖽 𝖴𝗌𝖺𝗀𝖾:
+➪ /short: 𝗎𝗌𝖾 𝗍𝗁𝗂𝗌 𝖼𝗈𝗆𝗆𝖺𝗇𝖽 𝗐𝗂𝗍𝗁 𝗒𝗈𝗎𝗋 𝗅𝗂𝗇𝗄 𝗍𝗈 𝗀𝖾𝗍 𝗌𝗁𝗈𝗋𝗍𝖾𝖽 𝗅𝗂𝗇𝗄𝗌
+➛𝖤𝗑𝖺𝗆𝗉𝗅𝖾:
+<code>/short https://youtu.be/IF_qoYnCLjs</code>"""
     FUN_TXT ="""<b>FUN MODULE</b> 
     
 <b>🎲 NOTHING MUCH JUST SOME FUN THINGS</b>
