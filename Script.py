@@ -22,6 +22,15 @@ Note:- Give a user details
     ALIVE_TXT ="""<b>ALIVE MODULE</b>
 • /alive - check me alive or dead🤧
 Just for a rasam😂"""
+    ZOMBIES_TXT = """𝖧𝖾𝗅𝗉 𝖸𝗈𝗎 𝖳𝗈 𝖪𝗂𝖼𝗄 𝖴𝗌𝖾𝗋
+
+<b>𝖪𝗂𝖼𝗄 𝖨𝗇𝖺𝖼𝗍𝗂𝗏𝖾 𝖬𝖾𝗆𝖻𝖾𝗋𝗌 𝖥𝗋𝗈𝗆 𝖦𝗋𝗈𝗎𝗉. 𝖠𝖽𝖽 𝖬𝖾 𝖠𝗌 𝖠𝖽𝗆𝗂𝗇 𝖶𝗂𝗍𝗁 𝖡𝖺𝗇 𝖴𝗌𝖾𝗋𝗌 𝖯𝖾𝗋𝗆𝗂𝗌𝗎𝗈𝗇 𝖨𝗇 𝖦𝗋𝗈𝗎𝗉.</b>
+<b>Commands and Usage:</b>
+• /inkick - command with required arguments and i will kick members from group.
+• /instatus - to check current status of chat member from group.
+• /inkick within_month long_time_ago - to kick users who are offline for more than 6-7 days.
+• /inkick long_time_ago - to kick members who are offline for more than a month and Deleted Accounts.
+• /dkick - to kick deleted accounts."""
     SONG_TXT ="""<b>SONG MODULE</b>
 Song Download
 Song Download Module, For Those Who Love Music
