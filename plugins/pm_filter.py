@@ -476,6 +476,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('ᴄᴏʀᴏɴᴀ', callback_data='corona'),
             InlineKeyboardButton('sᴛɪᴄᴋᴇʀ', callback_data='stickerid')
             ],[
+            InlineKeyboardButton('ᴛᴛꜱ', callback_data='ttss')           
+            ],[
             InlineKeyboardButton('⬅️ ʙᴀᴄᴋ', callback_data='start'),
             InlineKeyboardButton('sᴛᴀᴛᴜs 🔰', callback_data='stats'),
             InlineKeyboardButton('ʜᴏᴍᴇ 🏠', callback_data='home')
@@ -547,6 +549,16 @@ async def cb_handler(client: Client, query: CallbackQuery):
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
             text=script.STICKER_TXT,
+            reply_markup=reply_markup,
+            parse_mode='html'
+        )
+    elif query.data == "ttss":
+        buttons = [[
+            InlineKeyboardButton('⬅️ ʙᴀᴄᴋ', callback_data='help')
+        ]]
+        reply_markup = InlineKeyboardMarkup(buttons)
+        await query.message.edit_text(
+            text=script.TTS_TXT,
             reply_markup=reply_markup,
             parse_mode='html'
         )
