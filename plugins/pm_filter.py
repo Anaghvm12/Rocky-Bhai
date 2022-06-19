@@ -484,6 +484,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton("ᴠɪᴅᴇᴏ", callback_data='video'),
             InlineKeyboardButton("ɢɪᴛʜᴜʙ", callback_data='github')
             ],[
+            InlineKeyboardButton('ᴋɪᴄᴋ', callback_data='zombies')
+            ],[
             InlineKeyboardButton('⬅️ ʙᴀᴄᴋ', callback_data='start'),
             InlineKeyboardButton('sᴛᴀᴛᴜs 🔰', callback_data='stats'),
             InlineKeyboardButton('ʜᴏᴍᴇ 🏠', callback_data='home')
@@ -597,6 +599,17 @@ async def cb_handler(client: Client, query: CallbackQuery):
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
             text=script.URLSHORT_TXT,
+            disable_web_page_preview=True,
+            reply_markup=reply_markup,
+            parse_mode='html'
+        )
+    elif query.data == "zombies":
+        buttons = [[
+            InlineKeyboardButton('⬅️ ʙᴀᴄᴋ', callback_data='help')
+        ]]
+        reply_markup = InlineKeyboardMarkup(buttons)
+        await query.message.edit_text(
+            text=script.ZOMBIES_TXT,
             disable_web_page_preview=True,
             reply_markup=reply_markup,
             parse_mode='html'
