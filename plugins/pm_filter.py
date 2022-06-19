@@ -485,8 +485,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton("ɢɪᴛʜᴜʙ", callback_data='github')
             ],[
             InlineKeyboardButton('ᴋɪᴄᴋ', callback_data='zombies'),
-            InlineKeyboardButton('ᴍᴜᴛᴇ', callback_data='restric')
-            InlineKeyboardButton('ꜰɪʟᴇ-ꜱᴛᴏʀᴇ', callback_data='newdata')
+            InlineKeyboardButton('ᴍᴜᴛᴇ', callback_data='restric'),
+            InlineKeyboardButton('sᴏᴜʀᴄᴇ', callback_data='source')
             ],[
             InlineKeyboardButton('⬅️ ʙᴀᴄᴋ', callback_data='start'),
             InlineKeyboardButton('sᴛᴀᴛᴜs 🔰', callback_data='stats'),
@@ -559,16 +559,6 @@ async def cb_handler(client: Client, query: CallbackQuery):
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
             text=script.STICKER_TXT,
-            reply_markup=reply_markup,
-            parse_mode='html'
-        )
-    elif query.data == "newdata":
-        buttons = [[
-            InlineKeyboardButton('⬅️ ʙᴀᴄᴋ', callback_data='help')
-        ]]
-        reply_markup = InlineKeyboardMarkup(buttons)
-        await query.message.edit_text(
-            text=script.FILE_TXT,
             reply_markup=reply_markup,
             parse_mode='html'
         )
