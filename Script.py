@@ -59,6 +59,15 @@ Everyone can use this command , if spaming happens bot will automatically ban yo
 
   <b>example</b> : - /covid India"""
     STICKER_TXT ="""<b>COMMAND /stickerid\n𝖨𝖿 𝖸𝗈𝗎 𝖭𝖾𝖾𝖽 𝖳𝖾𝗅𝖾𝗀𝗋𝖺𝗆 𝖲𝗍𝗂𝖼𝗄𝖾𝗋 𝖨𝖽 𝖢𝗅𝗂𝖼𝗄 /stickerid 𝖳𝗈 𝖦𝖾𝗍 𝖲𝗍𝗂𝖼𝗄𝖾𝗋 𝖨𝖽 (𝖱𝖾𝗉𝗅𝗒 𝖶𝗂𝗍𝗁 𝖲𝗍𝗂𝖼𝗄𝖾𝗋)</b>"""
+    TTS_TXT = """Help: <b> TTS 🎤 module:</b>
+
+𝖳𝗋𝖺𝗇𝗌𝗅𝖺𝗍𝖾 𝖳𝖾𝗑𝗍 𝖳𝗈 𝖲𝗉𝖾𝖾𝖼𝗁
+<b>Commands and Usage:</b>
+• /tts <text> : 𝖢𝗈𝗇𝗏𝖾𝗋𝗍 𝖳𝖾𝗑𝗍 𝖳𝗈 𝖲𝗉𝖾𝖾𝖼𝗁
+<b>NOTE:</b>
+• 𝖨𝗆𝖽𝖻 𝖲𝗁𝗈𝗎𝗅𝖽 𝖧𝖺𝗏𝖾 𝖠𝖽𝗆𝗂𝗇 𝖯𝗋𝖾𝗏𝗂𝗅𝖺𝗀𝖾.
+• These commands works on both pm and group.
+• IMDb can translate texts to 200+ languages."""
     FUN_TXT ="""<b>FUN MODULE</b> 
     
 <b>🎲 NOTHING MUCH JUST SOME FUN THINGS</b>
