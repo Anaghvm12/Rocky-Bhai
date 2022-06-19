@@ -108,7 +108,7 @@ Everyone can use this command , if spaming happens bot will automatically ban yo
 ➪ /pbatch ›› <b>𝖴𝗌𝖾 𝖸𝗈𝗎𝗋 𝖬𝖾𝖺𝖽𝗂𝖺 𝖫𝗂𝗇𝗄 𝖳𝗈 𝖳𝗁𝗂𝗌 𝖢𝗈𝗆𝗆𝖺𝗇𝖽.</b>
 ➪ /batch ›› <b>𝚃𝖳𝗈 𝖢𝗋𝖾𝖺𝗍𝖾 𝖫𝗂𝗇𝗄𝗌 𝖥𝗈𝗋 𝖬𝗎𝗅𝗍𝗂𝗉𝗅𝖾 𝖥𝗂𝗅𝖾𝗌.</b>
 • 𝖤𝗑𝖺𝗆𝗉𝗅𝖾 ›
-<code>/batch https://t.me/+Rc9TK3wIf6xjODE9</code>
+<code>/batch https://t.me/+Rc9TK3wIf6xjODE9</code>"""
     TTS_TXT = """Help: <b> TTS 🎤 module:</b>
 
 𝖳𝗋𝖺𝗇𝗌𝗅𝖺𝗍𝖾 𝖳𝖾𝗑𝗍 𝖳𝗈 𝖲𝗉𝖾𝖾𝖼𝗁
