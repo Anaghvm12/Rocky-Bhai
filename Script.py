@@ -22,6 +22,27 @@ Note:- Give a user details
     ALIVE_TXT ="""<b>ALIVE MODULE</b>
 • /alive - check me alive or dead🤧
 Just for a rasam😂"""
+    RESTRIC_TXT = """Help: <b>Restrictions</b>    
+
+Some people need to be publicly banned; spammers, annoyances, or just trolls.
+
+This module allows you to do that easily, by exposing some common actions, so everyone will see!
+
+<b>Commands and Usage:</b>
+• /ban - ban a user.
+• /tban - temporarily ban a user. Example time values: 4m = 4 minutes, 3h = 3 hours, 6d = 6 days, 5w = 5 weeks.
+• /mute - mute a user.
+• /tmute - temporarily mute a user. Example time values: 4m = 4 minutes, 3h = 3 hours, 6d = 6 days, 5w = 5 weeks.
+• /unban or /unmute - unmute a user & unban a user.
+
+<b>Examples:</b>
+- Mute a user for two hours.
+-> <code>/tmute @username 2h</code>
+
+<b>NOTE:</b>
+• IMDb should have admin privillage.
+• These commands works on group.
+• These commands can be used by Only admin."""
     ZOMBIES_TXT = """𝖧𝖾𝗅𝗉 𝖸𝗈𝗎 𝖳𝗈 𝖪𝗂𝖼𝗄 𝖴𝗌𝖾𝗋
 
 <b>𝖪𝗂𝖼𝗄 𝖨𝗇𝖺𝖼𝗍𝗂𝗏𝖾 𝖬𝖾𝗆𝖻𝖾𝗋𝗌 𝖥𝗋𝗈𝗆 𝖦𝗋𝗈𝗎𝗉. 𝖠𝖽𝖽 𝖬𝖾 𝖠𝗌 𝖠𝖽𝗆𝗂𝗇 𝖶𝗂𝗍𝗁 𝖡𝖺𝗇 𝖴𝗌𝖾𝗋𝗌 𝖯𝖾𝗋𝗆𝗂𝗌𝗎𝗈𝗇 𝖨𝗇 𝖦𝗋𝗈𝗎𝗉.</b>
