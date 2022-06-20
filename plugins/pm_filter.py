@@ -477,7 +477,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('sᴛɪᴄᴋᴇʀ', callback_data='stickerid')
             ],[
             InlineKeyboardButton('ᴛᴛꜱ', callback_data='ttss'),          
-            InlineKeyboardButton('yᴛ-ᴛʜᴜᴍʙ', callback_data='ytthumb'),            
+            InlineKeyboardButton('ʏᴛ-ᴛʜᴜᴍʙ', callback_data='ytthumb'),            
             InlineKeyboardButton('ᴜʀʟ-sʜᴏʀᴛ', callback_data='urlshort')
             ],[
             InlineKeyboardButton('ʀᴇᴩᴏʀᴛ', callback_data='report'),
@@ -486,9 +486,9 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],[
             InlineKeyboardButton('ᴋɪᴄᴋ', callback_data='zombies'),
             InlineKeyboardButton('ᴍᴜᴛᴇ', callback_data='restric'),
-            InlineKeyboardButton('sᴏᴜʀᴄᴇ', callback_data='source')
+            InlineKeyboardButton('ᴀᴜᴅɪᴏ-ʙᴏᴏᴋ', callback_data='abook')
             ],[
-            InlineKeyboardButton('ᴀᴜᴅɪᴏ-ʙᴏᴏᴋ', callback_data='abook'),
+            InlineKeyboardButton('sᴏᴜʀᴄᴇ', callback_data='source'),
             InlineKeyboardButton('ꜰɪʟᴇ-ꜱᴛᴏʀᴇ', callback_data='newdata'),
             InlineKeyboardButton("ɪᴍᴀɢᴇ", callback_data='image')
             ],[
@@ -563,6 +563,27 @@ async def cb_handler(client: Client, query: CallbackQuery):
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
             text=script.STICKER_TXT,
+            reply_markup=reply_markup,
+            parse_mode='html'
+        )
+    elif query.data == "abook":
+        buttons = [[
+            InlineKeyboardButton('🚶‍♀️ ʙᴀᴄᴋ', callback_data='help')
+        ]]
+        reply_markup = InlineKeyboardMarkup(buttons)
+        await query.message.edit_text(
+            text=script.ABOOK_TXT,
+            disable_web_page_preview=True,
+            reply_markup=reply_markup,
+            parse_mode='html'
+        )
+    elif query.data == "newdata":
+        buttons = [[
+            InlineKeyboardButton('🚶‍♀️ ʙᴀᴄᴋ', callback_data='help')
+        ]]
+        reply_markup = InlineKeyboardMarkup(buttons)
+        await query.message.edit_text(
+            text=script.FILE_TXT,
             reply_markup=reply_markup,
             parse_mode='html'
         )
